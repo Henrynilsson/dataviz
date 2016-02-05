@@ -13,7 +13,16 @@ p {
 
 h2 {
     color:black;
+    font-family: 'Cinzel', serif;
+    font-weight: 700;
 }
+
+h3 {
+    color:black;
+    font-family: 'Cinzel', serif;
+    font-weight: 700;
+}
+
 
 .top-bar{
   float:right;
@@ -31,7 +40,8 @@ height: 50px;
   float: left;
   line-height: 50px;
   text-align: center;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Cinzel', serif;
+  font-weight: 700;
   color:black; 
 
   position:relative;
@@ -60,8 +70,10 @@ background-color:white;
   width:100%;
   background-image: url(filmfestfoto.jpg);
   background-size: cover;
-background-attachment: fixed;
+  background-attachment: fixed;
   margin-bottom: 150px;
+  font-family: 'Cinzel', serif;
+  font-weight: 700;
 
 }
 
