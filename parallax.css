@@ -54,7 +54,7 @@ body {
   padding: 0;
   margin: 0;
   font-family:'Open Sans', sans-serif;
-background-color:white;
+  background-color:white;
   
 }
 
@@ -68,8 +68,8 @@ background-color:white;
   position: relative;
   height : 600px;
   width:100%;
-  background-image: "Rityta1.png";
-  background-size: cover;
+  background-image:;
+  background-size: ;
   background-attachment: fixed;
   margin-bottom: 150px;
   font-family: 'Cinzel', serif;
@@ -97,33 +97,11 @@ text-decoration: none;
 a:visited {
     text-decoration: none;
     color:black;
-
-}
-
-#map { 
-    
-    border: 2px solid grey;
-    margin-bottom: 200px;
-}
-    
-#banner{
-    background-image: url(statsbanner.jpg);
-    height:400px;
-    width:100%;
-    background-size:cover;
-    background-position: center center;
-    display:flex;
-    justify-content:center;
-    align-items:center;
-   margin-top: 0px;
-    opacity: 0.8;
-    margin-bottom: 100px;
-    
-}
+}    
 
 #carol{
-    background-image: url(maxresdefault.jpg);
-    height:400px;
+    background-image: url(Rityta1.png);
+    height:9000px;
     width:100%;
     background-size:cover;
     background-position: center center;
@@ -223,13 +201,7 @@ a:visited {
     background-size:cover;
     
 }  
-
-.profile-pic.christian{
-    background-image: url(christian.jpg);
-    background-position: center center;
-    background-size:cover;
-    
-}   
+  
 
 #contact{
 color:black;
