@@ -74,6 +74,7 @@ body {
   width:100%;
   background-image: url("riksdagen1.jpg");
   background-size: cover;
+  background-repeat: no-repeat;
   background-attachment:fixed;
   margin-bottom: 150px;
   font-family: 'Arial', serif;
@@ -114,7 +115,8 @@ a:visited {
     background-image: url(bilden.png);
     height: 14000px;
     width: 100%;
-    background-size: contain;
+    background-size: cover;
+    background-repeat: no-repeat;
     background-position: center center;
     display: inherit;
     justify-content: center;
