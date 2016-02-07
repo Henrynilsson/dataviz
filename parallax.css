@@ -13,16 +13,7 @@ p {
 
 h2 {
     color:black;
-    font-family: 'Cinzel', serif;
-    font-weight: 700;
 }
-
-h3 {
-    color:black;
-    font-family: 'Cinzel', serif;
-    font-weight: 700;
-}
-
 
 .top-bar{
   float:right;
@@ -40,8 +31,7 @@ height: 50px;
   float: left;
   line-height: 50px;
   text-align: center;
-  font-family: 'Cinzel', serif;
-  font-weight: 700;
+  font-family: 'helvetica', serif;
   color:black; 
 
   position:relative;
@@ -53,27 +43,27 @@ height: 50px;
 body {
   padding: 0;
   margin: 0;
-  font-family:'Open Sans', sans-serif;
-  background-color:white;
+  font-family:'helvetica', serif;
+background-color:whitesmoke;
   
 }
 
-.mission-etc p{
+.mission-etc {
     padding-right: 15%;
     padding-left: 15%;
+    margin-bottom: 150px;
+    color: black;
 }
     
 
 .header {
-  position: relative;
+  position:relative;
   height : 600px;
   width:100%;
-  background-image: url("riksdagen.jpg");
-  background-size: cover;
-  background-attachment:fixed;
+  background-image:url(riksdagen.jpg);
+  background-size:cover;
+background-attachment: fixed;
   margin-bottom: 150px;
-  font-family: 'Cinzel', serif;
-  font-weight: 700;
 
 }
 
@@ -83,9 +73,9 @@ body {
   left: 0;
   right: 0;
   text-align: center;
-  font-family: 'Cinzel', serif;
-  font-weight: 700;
-  color: black;
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
+  color:black;
 
 }
 
@@ -97,11 +87,12 @@ text-decoration: none;
 a:visited {
     text-decoration: none;
     color:black;
-}    
+
+}
 
 #carol{
-    background-image: url(background1.jpg);
-    height:9000px;
+    background-image: url(maxresdefault.jpg);
+    height:400px;
     width:100%;
     background-size:cover;
     background-position: center center;
@@ -121,16 +112,19 @@ a:visited {
     color:black;
     padding-right: 15%;
     padding-left: 15%;
+    font-family: 'helvetica', serif;
 
 }
 
-.STHLM p{
+.STHLM{
     color:black;
     font-size: 20px;
     text-align: center;
     padding-right: 15%;
     padding-left: 15%;
-    margin-bottom: 20px;
+    margin-bottom: 100px;
+    font-family: 'helvetica', serif;
+    
     
 }
     
@@ -143,7 +137,7 @@ a:visited {
     justify-content:center;
     align-items:center;
     margin-bottom:0px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'helvetica', serif;
    
    
 }
@@ -153,7 +147,7 @@ a:visited {
     justify-content:center;
     align-items:center;
     margin-top:60px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'helvetica', serif;
     text-align: center;
 }
 
@@ -201,7 +195,13 @@ a:visited {
     background-size:cover;
     
 }  
-  
+
+.profile-pic.christian{
+    background-image: url(christian.jpg);
+    background-position: center center;
+    background-size:cover;
+    
+}   
 
 #contact{
 color:black;
