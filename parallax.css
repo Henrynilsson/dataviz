@@ -13,13 +13,13 @@ p {
 
 h2 {
     color:black;
-    font-family: 'Cinzel', serif;
+    font-family: Arial, serif;
     font-weight: 700;
 }
 
 h3 {
     color:black;
-    font-family: 'Cinzel', serif;
+    font-family: Arial, serif;
     font-weight: 700;
 }
 
@@ -40,7 +40,7 @@ height: 50px;
   float: left;
   line-height: 50px;
   text-align: center;
-  font-family: 'Cinzel', serif;
+  font-family: Arial, serif;
   font-weight: 700;
   color:black; 
 
@@ -53,7 +53,7 @@ height: 50px;
 body {
   padding: 0;
   margin: 0;
-  font-family:'Open Sans', sans-serif;
+  font-family: Arial, sans-serif;
   background-color:white;
   
 }
@@ -68,9 +68,9 @@ body {
   position: relative;
   height : 600px;
   width:100%;
-  background-image:;
-  background-size: ;
-  background-attachment: fixed;
+  background-image: url("riksdagen.jpg");
+  background-size: cover;
+  background-attachment:fixed;
   margin-bottom: 150px;
   font-family: 'Cinzel', serif;
   font-weight: 700;
@@ -83,7 +83,7 @@ body {
   left: 0;
   right: 0;
   text-align: center;
-  font-family: 'Cinzel', serif;
+  font-family: Arial, serif;
   font-weight: 700;
   color: black;
 
@@ -100,19 +100,17 @@ a:visited {
 }    
 
 #carol{
-    background-image: url(Rityta1.png);
-    height:9000px;
-    width:100%;
-    background-size:cover;
+    background-image: url(bild1.png);
+    height: 8000px;
+    width: 100%;
+    background-size: cover;
     background-position: center center;
-    display:flex;
-    justify-content:center;
-    align-items:center;
+    display: inherit;
+    justify-content: center;
+    align-items: center;
     margin-top: 0px;
-    float: right;
-    margin-bottom: 200px;
-    background-attachment: fixed;
-}
+    margin-bottom: 100px;
+  }
     
     
 .carol-text{
@@ -143,7 +141,7 @@ a:visited {
     justify-content:center;
     align-items:center;
     margin-bottom:0px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, sans-serif;
    
    
 }
@@ -153,7 +151,7 @@ a:visited {
     justify-content:center;
     align-items:center;
     margin-top:60px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, sans-serif;
     text-align: center;
 }
 
@@ -209,7 +207,7 @@ color:black;
 }
 
 p {
-    color:black;
+    color:white;
     margin-bottom: 50px;
 }
 
