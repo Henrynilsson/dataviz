@@ -68,9 +68,9 @@ body {
   position: relative;
   height : 600px;
   width:100%;
-  background-image:;
-  background-size: ;
-  background-attachment: fixed;
+  background-image: url("riksdagen.jpg");
+  background-size: cover;
+  background-attachment:fixed;
   margin-bottom: 150px;
   font-family: 'Cinzel', serif;
   font-weight: 700;
