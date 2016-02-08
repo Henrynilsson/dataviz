@@ -111,18 +111,28 @@ a:visited {
     padding-left: 15%;
 }
 
+/*
 #carol{
-    background-image: url(bilden-2.jpg);
-    height: 6243px;
-    width: 1200px;
+    background-image: url(bild1.png);
+    height: 8000px;
+    width: 100%;
     background-size: cover;
-    background-repeat: no-repeat;
     background-position: center center;
     display: inherit;
     justify-content: center;
     align-items: center;
     margin-top: 0px;
     margin-bottom: 100px;
+  }
+   */
+   #carol{
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+  } 
+  
+  .image{
+      width:100%;
   }
     
     
