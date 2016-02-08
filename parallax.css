@@ -98,7 +98,7 @@ a:visited {
     text-decoration: none;
     color:black;
 }    
-/*
+
 #carol{
     background-image: url(bild1.png);
     height: 8000px;
@@ -110,16 +110,6 @@ a:visited {
     align-items: center;
     margin-top: 0px;
     margin-bottom: 100px;
-  }
-   */
-   #carol{
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 100px;
-  } 
-  
-  .image{
-      width:100%;
   }
     
 .carol-text{
